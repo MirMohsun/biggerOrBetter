@@ -1,0 +1,1 @@
+export const someExample = (payload) => ({ type: 'SOME_EXAMPLE', payload });
